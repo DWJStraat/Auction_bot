@@ -1,5 +1,6 @@
 # Auction_bot
-A simple discord bot for hosting private auctions
+A simple discord bot for hosting private auctions.
+Does not handle currency exchange.
 
 
 Setting up:
